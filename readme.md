@@ -24,6 +24,7 @@ This is the same as simulator.py, but the decision tree maker functionality is m
 ### create\_petersen\_tree.py
 This file can be excecuted in order to create a decision tree for a game played on the petersen graph. It turns out that the petersen graph is sufficiently complex to make this take way too long. I do not recommend running this file, but it can be used as an example of how to use the code otherwise. 
 
-
+## Examples
+The files K3.pdf and K4.pdf are examples of decision trees created by the code in this repository. These examples are for the complete graphs on 3 vertices and on 4 vertices.
 
 
