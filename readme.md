@@ -1,5 +1,5 @@
 # Game on Graphs
-This repository includes code that was used to simulate a game on graphs for a Graph Theory final project.
+This repository includes code that was used to simulate a game on graphs for a Graph Theory final project. (Declan, Vicky, and Oskar's Group)
 
 This project was not done with the intent of being easily portable, so there are some variables that need to be changed in order for everything to work on other people's computers. Off the top of my head, this mostly means that some directory addresses will need to be changed.
 
